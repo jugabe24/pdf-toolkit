@@ -1,0 +1,22 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Empaquetado (PyInstaller)
+build/
+dist/
+*.spec
+
+# Editores y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# PDFs e imágenes de prueba personales
+pruebas/
